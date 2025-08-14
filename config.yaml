@@ -1,0 +1,3 @@
+s3_bucket: bigdata-retail-analytics-data
+raw_data_path: raw/online_retail.csv
+processed_data_path: processed/cleaned_data.parquet
